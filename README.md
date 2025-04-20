@@ -6,5 +6,5 @@ Este projeto tem como objetivo sintetizar e compartilhar em tempo real os estudo
 
 **Tecnologias Utilizadas:**
 - Linguagem de programação: Python
-- Ambiente (IDE): Google Colaboratory
+- Ambiente (IDE-web): Google Colaboratory
 - Bibliotecas e ferramentas: Em processo de desenvolvimento e adaptação conforme as necessidades do projeto. 
